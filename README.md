@@ -50,6 +50,7 @@ https://github.com/user-attachments/assets/80d04349-2b30-408c-a4bd-d18cfac1251d
 - 녹화 종료 후 저장 여부를 선택합니다.
 - 저장할 경우 원하는 파일명을 입력하여 저장합니다.
 - 프로그램을 종료하려면 ESC 키를 눌러 프로그램을 종료합니다.
+- 녹화된 영상의 format: avi, fourccs: XVID 입니다.
 
 ### 사용한 라이브러리
 - cv2
