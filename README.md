@@ -28,9 +28,14 @@ OpenCV 기반의 필터 효과를 통해 사용자는 영상을 촬영하면서 
 
 https://github.com/user-attachments/assets/13c5ab61-0ac4-4001-87ec-808919938d8d
 
-**프로그램으로 녹화**
+**프로그램으로 시연 영상**
 
-https://github.com/user-attachments/assets/c993a588-de12-49a4-a52c-9127709bcdb9
+
+
+
+https://github.com/user-attachments/assets/edf7fac1-77a7-487e-905b-1984e9be37a0
+
+
 
 **녹화 결과물**
 
