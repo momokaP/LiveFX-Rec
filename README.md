@@ -30,6 +30,8 @@ https://github.com/user-attachments/assets/13c5ab61-0ac4-4001-87ec-808919938d8d
 
 **프로그램으로 녹화**
 
+https://github.com/user-attachments/assets/c993a588-de12-49a4-a52c-9127709bcdb9
+
 **녹화 결과물**
 
 
@@ -47,6 +49,7 @@ https://github.com/user-attachments/assets/13c5ab61-0ac4-4001-87ec-808919938d8d
 - 녹화 중에는 '<' '>' 키를 통해 적용할 필터를 변경할 수 있습니다.
 - 녹화 종료 후 저장 여부를 선택합니다.
 - 저장할 경우 원하는 파일명을 입력하여 저장합니다.
+- 프로그램을 종료하려면 ESC 키를 눌러 프로그램을 종료합니다.
 
 ### 사용한 라이브러리
 - cv2
