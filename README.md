@@ -30,12 +30,7 @@ https://github.com/user-attachments/assets/13c5ab61-0ac4-4001-87ec-808919938d8d
 
 **프로그램으로 시연 영상**
 
-
-
-
-https://github.com/user-attachments/assets/edf7fac1-77a7-487e-905b-1984e9be37a0
-
-
+https://github.com/user-attachments/assets/80d04349-2b30-408c-a4bd-d18cfac1251d
 
 **녹화 결과물**
 
