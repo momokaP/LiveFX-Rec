@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/13c5ab61-0ac4-4001-87ec-808919938d8d
 
 https://github.com/user-attachments/assets/80d04349-2b30-408c-a4bd-d18cfac1251d
 
-**녹화 결과물**
+**녹화 결과물 (github readme에 업로드 하기 위해 avi를 mp4로 변환한 영상)**
 
 
 
